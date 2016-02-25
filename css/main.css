@@ -694,11 +694,11 @@ ul.tag-cloud li {
 .btn-social.btn-twitter:hover {
   background: #8eddff;
 }
-.btn-social.btn-linkedin {
-  background: #21a6d8;
+.btn-social.btn-github {
+  background: #333;
 }
-.btn-social.btn-linkedin:hover {
-  background: #49b9e3;
+.btn-social.btn-github:hover {
+  background: #A09E9E;
 }
 .btn-social.btn-google-plus {
   background: #dc422b;
@@ -1086,4 +1086,8 @@ ul.faq li > div h3 {
   text-align: center;
   margin-top: 150px;
   margin-bottom: 150px;
+}
+.more {
+  color: #202020;
+  border: 3px solid rgba(0, 0, 0, 0.5);
 }
